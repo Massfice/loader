@@ -1,0 +1,18 @@
+{
+    "name": "massfice/loader",
+    "description": "Loader package for my diploma project. I'm gonna use it for loading sid and maybe for another purposes too.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Massfice",
+            "email": "adrian.marian.tomasz.larysz@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Massfice\\Loader\\": "src/"
+        }
+    }
+}
